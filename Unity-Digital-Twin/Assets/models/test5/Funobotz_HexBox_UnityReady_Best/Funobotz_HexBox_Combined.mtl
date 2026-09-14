@@ -1,0 +1,30 @@
+# Funobotz Hex Box materials
+newmtl MAT_White
+Ka 0.2 0.2 0.2
+Kd 1.000000 1.000000 1.000000
+Ks 0.05 0.05 0.05
+Ns 16.0
+illum 2
+
+newmtl MAT_Orange
+Ka 0.2 0.2 0.2
+Kd 0.996078 0.705882 0.286275
+Ks 0.05 0.05 0.05
+Ns 16.0
+illum 2
+
+newmtl MAT_Grey
+Ka 0.2 0.2 0.2
+Kd 0.717647 0.717647 0.717647
+Ks 0.05 0.05 0.05
+Ns 16.0
+illum 2
+
+newmtl MAT_Logo
+Ka 0.2 0.2 0.2
+Kd 1.000000 1.000000 1.000000
+Ks 0.05 0.05 0.05
+Ns 16.0
+illum 2
+d 1.0
+map_Kd funobotz_wordmark_whitebg.png
